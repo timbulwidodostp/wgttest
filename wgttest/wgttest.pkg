@@ -1,0 +1,4 @@
+D 'wgttest': Test the impact of sampling weights in regression analysis Use wgttest With STATA 19
+D
+F wgttest.ado
+F wgttest.hlp
