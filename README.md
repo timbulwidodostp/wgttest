@@ -1,6 +1,8 @@
 # wgttest
 Test the impact of sampling weights in regression analysis Use wgttest With STATA 19
 
+https://www.youtube.com/watch?v=c5BLCYPdLIQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
